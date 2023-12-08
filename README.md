@@ -18,4 +18,4 @@ g++ DomainDiscovery.cpp -o DomainDiscovery
 g++ DomainClassification.cpp -o DomainClassification
 ./DomainClassification
 
-These commands will generate two outputs files
+These commands will generate two outputs.
