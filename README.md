@@ -2,7 +2,7 @@
 
 This is a brief guide on how to run the C++ implementation of the "Data Driven Domain Discovery for Structured Datasets" project. This project aims to find robust signatures for different domains in a structured dataset i.e NYC education Dataset 
 
-The first step is to download all the required dataset files from below link. 
+The first step is to download all the required dataset files which can be found in this repository other datafiles can be downloaded from below link. 
 https://zenodo.org/records/3647642
 
 The second step is to download the Robust Signatures.txt file, which contains the list of robust signatures for each domain. These signatures are sets of words or phrases that are highly indicative of a specific domain and can be used to classify new records.
